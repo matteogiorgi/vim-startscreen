@@ -87,7 +87,7 @@ function! startscreen#start() abort
                 \ '                           E V I L · V I M                           ',
                 \ '                                                                     ',
                 \ '                                                                     ',
-                \ '            [S]essions · [R]ecents · [F]iles · [N]otewiki            ',
+                \ '         [S]essions · [R]ecents · [F]iles · [N]otes · [Q]uit         ',
                 \ '                                                                     ',
                 \ '                                                                     ',
                 \ ]
@@ -109,4 +109,5 @@ function! startscreen#start() abort
     nnoremap <buffer><nowait><silent> r :CocList mru<cr>
     nnoremap <buffer><nowait><silent> f :CocList files<cr>
     nnoremap <buffer><nowait><silent> n :CocList files ~/notewiki<cr>
+    nnoremap <buffer><nowait><silent> q :quitall<cr>
 endfunction
