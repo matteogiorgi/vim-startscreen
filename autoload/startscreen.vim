@@ -108,5 +108,5 @@ function! startscreen#start() abort
     nnoremap <buffer><nowait><silent> s :CocList sessions<cr>
     nnoremap <buffer><nowait><silent> r :CocList mru<cr>
     nnoremap <buffer><nowait><silent> f :CocList files<cr>
-    nnoremap <buffer><nowait><silent> n :CocList files ~/notewiki/*.md<cr>
+    nnoremap <buffer><nowait><silent> n :CocList files ~/notewiki<cr>
 endfunction
