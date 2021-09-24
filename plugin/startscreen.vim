@@ -6,13 +6,12 @@ let s:save_cpo = &cpo
 set cpo&vim
 
 
-augroup startscreen
+command! Startscreen call startscreen#start()
+augroup startscreenstart
     autocmd!
-    autocmd VimEnter * call startscreen#start()
+    autocmd VimEnter * Startscreen
 augroup END
 
 
 let &cpo = s:save_cpo
 unlet s:save_cpo
-
-command! Startscreen call startscreen#start()
