@@ -14,3 +14,5 @@ augroup END
 
 let &cpo = s:save_cpo
 unlet s:save_cpo
+
+command! Startscreen call startscreen#start()
