@@ -105,8 +105,8 @@ function! startscreen#start() abort
     setlocal nomodifiable nomodified  " No modifications to this buffer
     set filetype=startscreen
     
-    nnoremap <buffer><nowait><silent> S :CocList sessions<cr>
-    nnoremap <buffer><nowait><silent> R :CocList mru<cr>
-    nnoremap <buffer><nowait><silent> F :CocList files<cr>
-    nnoremap <buffer><nowait><silent> N :NoteWikiIndex<cr>
+    nnoremap <buffer><nowait><silent> s :CocList sessions<cr>
+    nnoremap <buffer><nowait><silent> r :CocList mru<cr>
+    nnoremap <buffer><nowait><silent> f :CocList files<cr>
+    nnoremap <buffer><nowait><silent> n :NoteWikiIndex<cr>
 endfunction
