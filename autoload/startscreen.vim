@@ -87,9 +87,6 @@ function! startscreen#start() abort
                 \ '                           E V I L · V I M                           ',
                 \ '                                                                     ',
                 \ '                                                                     ',
-                \ '            [S]essions · [R]ecents · [F]iles · [N]otewiki            ',
-                \ '                                                                     ',
-                \ '                                                                     ',
                 \ ]
     
     let header = exists('g:startscreen_custom_header')
@@ -104,9 +101,4 @@ function! startscreen#start() abort
     
     setlocal nomodifiable nomodified  " No modifications to this buffer
     set filetype=startscreen
-    
-    nnoremap <buffer><nowait><silent> s :CocList sessions<cr>
-    nnoremap <buffer><nowait><silent> r :CocList mru<cr>
-    nnoremap <buffer><nowait><silent> f :CocList files<cr>
-    nnoremap <buffer><nowait><silent> n :CocList files ~/notewiki<cr>
 endfunction
