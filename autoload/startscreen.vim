@@ -32,6 +32,7 @@ function! startscreen#start() abort
     
     silent! setlocal
                 \ bufhidden=wipe
+                \ buftype=nofile
                 \ colorcolumn=
                 \ foldcolumn=0
                 \ matchpairs=
