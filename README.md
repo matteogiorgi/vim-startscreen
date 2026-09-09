@@ -24,48 +24,48 @@ It is a rip-off of the very clever [startscreen](https://github.com/haomingw/vim
 By default, the screen shows an ASCII-art mascot followed by a figlet-style wordmark:
 
 ```
-            :h-                                  Nhy`
-           -mh.                           h.    `Ndho
-           hmh+                          oNm.   oNdhh
-          `Nmhd`                        /NNmd  /NNhhd
-          -NNhhy                      `hMNmmm`+NNdhhh
-          .NNmhhs              ```....`..-:/./mNdhhh+
-           mNNdhhh-     `.-::///+++////++//:--.`-/sd`
-           oNNNdhhdo..://++//++++++/+++//++///++/-.`
-      y.   `mNNNmhhhdy+/++++//+/////++//+++///++////-` `/oos:
- .    Nmy:  :NNNNmhhhhdy+/++/+++///:.....--:////+++///:.`:s+
- h-   dNmNmy oNNNNNdhhhhy:/+/+++/-         ---:/+++//++//.`
- hd+` -NNNy`./dNNNNNhhhh+-://///    -+oo:`  ::-:+////++///:`
- /Nmhs+oss-:++/dNNNmhho:--::///    /mmmmmo  ../-///++///////.
-  oNNdhhhhhhhs//osso/:---:::///    /yyyyso  ..o+-//////////:/.
-   /mNNNmdhhhh/://+///::://////     -:::- ..+sy+:////////::/:/.
-     /hNNNdhhs--:/+++////++/////.      ..-/yhhs-/////////::/::/`
-       .ooo+/-::::/+///////++++//-/ossyyhhhhs/:///////:::/::::/:
-       -///:::::::////++///+++/////:/+ooo+/::///////.::://::---+`
-       /////+//++++/////+////-..//////////::-:::--`.:///:---:::/:
-       //+++//++++++////+++///::--                 .::::-------::
-       :/++++///////////++++//////.                -:/:----::../-
-       -/++++//++///+//////////////               .::::---:::-.+`
-       `////////////////////////////:.            --::-----...-/
-        -///://////////////////////::::-..      :-:-:-..-::.`.+`
-         :/://///:///::://::://::::::/:::::::-:---::-.-....``/- -
-           ::::://::://::::::::::::::----------..-:....`.../- -+oo/
-            -/:::-:::::---://:-::-::::----::---.-.......`-/.      ``
-           s-`::--:::------:////----:---.-:::...-.....`./:
-          yMNy.`::-.--::..-dmmhhhs-..-.-.......`.....-/:`
-         oMNNNh. `-::--...:NNNdhhh/.--.`..``.......:/-
-        :dy+:`      .-::-..NNNhhd+``..`...````.-::-`
-                        .-:mNdhh:.......--::::-`
-                           yNh/..------..`
+                           :h-                                  Nhy`
+                          -mh.                           h.    `Ndho
+                          hmh+                          oNm.   oNdhh
+                         `Nmhd`                        /NNmd  /NNhhd
+                         -NNhhy                      `hMNmmm`+NNdhhh
+                         .NNmhhs              ```....`..-:/./mNdhhh+
+                          mNNdhhh-     `.-::///+++////++//:--.`-/sd`
+                          oNNNdhhdo..://++//++++++/+++//++///++/-.`
+                     y.   `mNNNmhhhdy+/++++//+/////++//+++///++////-` `/oos:
+                .    Nmy:  :NNNNmhhhhdy+/++/+++///:.....--:////+++///:.`:s+
+                h-   dNmNmy oNNNNNdhhhhy:/+/+++/-         ---:/+++//++//.`
+                hd+` -NNNy`./dNNNNNhhhh+-://///    -+oo:`  ::-:+////++///:`
+                /Nmhs+oss-:++/dNNNmhho:--::///    /mmmmmo  ../-///++///////.
+                 oNNdhhhhhhhs//osso/:---:::///    /yyyyso  ..o+-//////////:/.
+                  /mNNNmdhhhh/://+///::://////     -:::- ..+sy+:////////::/:/.
+                    /hNNNdhhs--:/+++////++/////.      ..-/yhhs-/////////::/::/`
+                      .ooo+/-::::/+///////++++//-/ossyyhhhhs/:///////:::/::::/:
+                      -///:::::::////++///+++/////:/+ooo+/::///////.::://::---+`
+                      /////+//++++/////+////-..//////////::-:::--`.:///:---:::/:
+                      //+++//++++++////+++///::--                 .::::-------::
+                      :/++++///////////++++//////.                -:/:----::../-
+                      -/++++//++///+//////////////               .::::---:::-.+`
+                      `////////////////////////////:.            --::-----...-/
+                       -///://////////////////////::::-..      :-:-:-..-::.`.+`
+                        :/://///:///::://::://::::::/:::::::-:---::-.-....``/- -
+                          ::::://::://::::::::::::::----------..-:....`.../- -+oo/
+                           -/:::-:::::---://:-::-::::----::---.-.......`-/.      ``
+                          s-`::--:::------:////----:---.-:::...-.....`./:
+                         yMNy.`::-.--::..-dmmhhhs-..-.-.......`.....-/:`
+                        oMNNNh. `-::--...:NNNdhhh/.--.`..``.......:/-
+                       :dy+:`      .-::-..NNNhhd+``..`...````.-::-`
+                                       .-:mNdhh:.......--::::-`
+                                          yNh/..------..`
 
 
 
-              8""""                    88   8
-              8     ee   e e  e        88   8 e  eeeeeee
-              8eeee 88   8 8  8        88  e8 8  8  8  8
-              88    88  e8 8e 8e       "8  8  8e 8e 8  8
-              88     8  8  88 88        8  8  88 88 8  8
-              88eee  8ee8  88 88eee     8ee8  88 88 8  8
+                             8""""                    88   8
+                             8     ee   e e  e        88   8 e  eeeeeee
+                             8eeee 88   8 8  8        88  e8 8  8  8  8
+                             88    88  e8 8e 8e       "8  8  8e 8e 8  8
+                             88     8  8  88 88        8  8  88 88 8  8
+                             88eee  8ee8  88 88eee     8ee8  88 88 8  8
 ```
 
 Both the mascot and the wordmark are just plain text baked into [`autoload/startscreen.vim`](autoload/startscreen.vim), centered at runtime — no images, no external assets. They aren't rendered in a single flat color either: the `startscreen` filetype's syntax file highlights the mascot and the wordmark as two separate regions (`startscreenHeader` and `startscreenFooter`, see [Highlighting](#highlighting)), so they show up in different colors straight out of the box.
