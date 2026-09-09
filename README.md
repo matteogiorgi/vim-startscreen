@@ -14,7 +14,7 @@ It is a rip-off of the very clever [startscreen](https://github.com/haomingw/vim
 - Fully customizable header via a single global variable.
 - Dedicated `startscreen` filetype with its own syntax highlighting (`startscreenHeader` / `startscreenFooter`), so the banner can be themed independently from the rest of your colorscheme.
 - Safe by design: it never triggers when Vim is started with a file argument, piped input, `-y`/`-M` mode, or an unmodifiable buffer, and it won't clobber unsaved changes in the current buffer.
-- The scratch buffer it creates is `nofile`/unlisted/unmodifiable, so it never gets saved or shown in buffer lists.
+- The scratch buffer it creates is `nofile`/`unlisted`/`unmodifiable`, so it never gets saved or shown in buffer lists.
 
 
 
