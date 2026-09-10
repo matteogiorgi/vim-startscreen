@@ -21,7 +21,7 @@ It is a rip-off of the very clever [startscreen](https://github.com/haomingw/vim
 
 ## Preview
 
-By default, the screen shows an ASCII-art mascot followed by a figlet-style wordmark:
+By default, the screen shows an ASCII-art mascot:
 
 ```
                            :h-                                  Nhy`
@@ -57,9 +57,11 @@ By default, the screen shows an ASCII-art mascot followed by a figlet-style word
                        :dy+:`      .-::-..NNNhhd+``..`...````.-::-`
                                        .-:mNdhh:.......--::::-`
                                           yNh/..------..`
+```
 
+Followed by a figlet-style wordmark:
 
-
+```
                              8""""                    88   8
                              8     ee   e e  e        88   8 e  eeeeeee
                              8eeee 88   8 8  8        88  e8 8  8  8  8
