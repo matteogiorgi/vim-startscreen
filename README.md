@@ -25,6 +25,7 @@ By default, the screen shows an ASCII-art mascot:
 
 ```
 
+
                            :h-                                  Nhy`
                           -mh.                           h.    `Ndho
                           hmh+                          oNm.   oNdhh
@@ -58,6 +59,7 @@ By default, the screen shows an ASCII-art mascot:
                        :dy+:`      .-::-..NNNhhd+``..`...````.-::-`
                                        .-:mNdhh:.......--::::-`
                                           yNh/..------..`
+
 
 ```
 
